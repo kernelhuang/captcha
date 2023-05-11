@@ -23,8 +23,8 @@ import (
 	"path"
 	"strings"
 
+	"github.com/kernelhuang/cache"
 	"github.com/lunny/tango"
-	"github.com/tango-contrib/cache"
 	"github.com/unknwon/com"
 )
 

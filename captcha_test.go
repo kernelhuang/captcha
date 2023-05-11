@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"testing"
 
+	"github.com/kernelhuang/renders"
 	"github.com/lunny/tango"
-	"github.com/tango-contrib/renders"
 )
 
 type CaptchaAction struct {
